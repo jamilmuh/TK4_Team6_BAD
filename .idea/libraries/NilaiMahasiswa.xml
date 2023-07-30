@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="NilaiMahasiswa">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/NilaiMahasiswa/dist/NilaiMahasiswa.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
